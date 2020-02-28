@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica8Buena</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="iniciar_actualizaciones">Iniciar_actualizaciones</string>
+    <string name="parar_actualizaciones">Parar_actualizaciones</string>
+    <string name="longitud">Longitud: </string>
+    <string name="latitud">Latitud: </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
